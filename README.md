@@ -1,5 +1,6 @@
-﻿
 # Customer Churn Prediction
+
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
  
 A machine learning project exploring customer churn on the [IBM Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). The goal is to identify customers likely to cancel their service, enabling businesses to intervene with targeted retention strategies.
  
