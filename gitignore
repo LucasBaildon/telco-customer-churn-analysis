@@ -1,0 +1,22 @@
+# Data (download separately via Kaggle)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Kaggle credentials
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
